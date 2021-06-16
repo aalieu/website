@@ -418,6 +418,9 @@ Now you are all set to work on a new PR. Start over on Step 6.
 #### Edits to pull request
 If you find an error in your code or your reviewer asks you to make a change, please avoid editing your code directly from the pull request. Instead update it in your local branch first and then push it to your origin remote. This will update the original pull request. 
 
+## Other Documentation
+For new volunteers, check this wiki for more ways to contribute to the project:
+- [Wiki](https://github.com/hackforla/website/wiki/How-to-Review-Pull-Requests)
 ## Useful Links
 
 ### Supported Platforms
